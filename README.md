@@ -1,9 +1,9 @@
 # Template Playground
 
 <p align="center">
-  <img style="width:60%;" src="https://i.imgur.com/ZYG59DH.png">
+  <img style="width:60%;" src="https://i.imgur.com/3AMSENF.png">
   <br/>
-  <sub><sup>Photo by <a href="https://unsplash.com/@androchentw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Andro Chen</a> on <a href="https://unsplash.com/photos/av_vGjHnK-g?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  <sub><sup>Photo by <a href="https://unsplash.com/@androchentw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Andro Chen</a> on <a href="https://unsplash.com/photos/f67MyC4QN9s?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   </sup></sub>
 </p>
 
