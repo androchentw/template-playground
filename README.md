@@ -1,5 +1,7 @@
 # Template Playground
 
+<img src="https://img.shields.io/badge/License-MIT-blue.svg" />
+
 <p align="center">
   <img style="width:60%;" src="https://i.imgur.com/ZYG59DH.png">
   <br/>
