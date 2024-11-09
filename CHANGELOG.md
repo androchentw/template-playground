@@ -1,21 +1,23 @@
 # Changelog
 
-## [Unreleased]
+## [1.2.0] - 2024-11-09
 
+- chore: remove 'v' prefix in changelog while keeping git tag with 'v' prefix
+- chore: clean format and add JetBrains .gitignore
+- docs: add THIRD-PARTY-NOTICES.md
 
-## [v1.1.0] - 2023-11-29
+## [1.1.0] - 2023-11-29
 
-- feat: update github issue template
+- feat: update GitHub issue template
 - feat: add SECURITY.md
 
-## [v1.0.0] - 2023-04-14
-
-### Added
+## [1.0.0] - 2023-04-14
 
 - feat: init
 
 <!-- Links -->
 
 <!-- Versions -->
-[v1.1.0]: https://github.com/androchentw/template-playground/releases/tag/v1.1.0
-[v1.0.0]: https://github.com/androchentw/template-playground/releases/tag/v1.0.0
+[1.2.0]: https://github.com/androchentw/template-playground/releases/tag/v1.2.0
+[1.1.0]: https://github.com/androchentw/template-playground/releases/tag/v1.1.0
+[1.0.0]: https://github.com/androchentw/template-playground/releases/tag/v1.0.0
